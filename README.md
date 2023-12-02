@@ -1,4 +1,4 @@
-# RMS Dashboard with React.js, Next.js, AG-Grid, and Custom Hooks
+# Risk Management Sysytem 
 
 Welcome to the RMS Dashboard project! This powerful dashboard is built with a combination of React.js, Next.js, AG-Grid, and custom hooks to efficiently handle UI rendering and data loading, ensuring optimal performance for loading numerical data.
 
